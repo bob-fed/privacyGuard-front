@@ -1,4 +1,3 @@
-/*
   # Initial Privacy Compliance Tool Schema
 
   1. New Tables
